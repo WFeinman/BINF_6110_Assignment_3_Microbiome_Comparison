@@ -1,0 +1,33 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Anaerotruncus colihominis	169435	S	6	20	26	0.07784
+Flavonifractor plautii	292800	S	5	13	18	0.05389
+Pusillibacter faecalis	2714358	S	2	6	8	0.02395
+Ruthenibacterium lactatiformans	1550024	S	2	4	6	0.01796
+Lawsonibacter asaccharolyticus	2108523	S	1	2	3	0.00898
+Intestinimonas butyriciproducens	1297617	S	1	1	2	0.00599
+Roseburia hominis	301301	S	4	16	20	0.05988
+Roseburia faecis	301302	S	1	2	3	0.00898
+[Ruminococcus] lactaris	46228	S	4	9	13	0.03892
+Coprococcus comes	410072	S	1	5	6	0.01796
+Coprococcus sp. ART55/1	751585	S	1	4	5	0.01497
+Blautia obeum	40520	S	1	5	6	0.01796
+Blautia wexlerae	418240	S	1	7	8	0.02395
+Blautia massiliensis (ex Durand et al. 2017)	1737424	S	1	51	52	0.15569
+Dorea formicigenerans	39486	S	1	6	7	0.02096
+Simiaoa sunii	2763672	S	2	5	7	0.02096
+Agathobacter rectalis	39491	S	1	3	4	0.01198
+Anaerostipes hadrus	649756	S	1	2	3	0.00898
+Bifidobacterium longum	216816	S	1	3	4	0.01198
+Bifidobacterium adolescentis	1680	S	1	3	4	0.01198
+Collinsella sp. i05-0019-G5	3132705	S	1	1	2	0.00599
+Bacteroides caccae	47678	S	7	17	24	0.07186
+Bacteroides thetaiotaomicron	818	S	3	12	15	0.04491
+Bacteroides uniformis	820	S	1	19	20	0.05988
+Butyricimonas paravirosa	1472417	S	2	13	15	0.04491
+Odoribacter splanchnicus	28118	S	1	0	1	0.00299
+Parabacteroides distasonis	823	S	2	12	14	0.04192
+Alistipes indistinctus	626932	S	3	3	6	0.01796
+Alistipes putredinis	28117	S	1	2	3	0.00898
+Barnesiella intestinihominis	487174	S	1	0	1	0.00299
+Akkermansia muciniphila	239935	S	4	4	8	0.02395
+Oxalobacter aliiformigenes	2946593	S	2	0	2	0.00599
