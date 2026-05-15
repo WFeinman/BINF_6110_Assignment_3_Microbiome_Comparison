@@ -58,3 +58,15 @@ bracken -d . -i SRR8146938.report -o SRR8146938.bracken -t 0
 bracken -d . -i SRR8146937.report -o SRR8146937.bracken -t 0
 bracken -d . -i SRR8146939.report -o SRR8146939.bracken -t 0
 bracken -d . -i SRR8146940.report -o SRR8146940.bracken -t 0
+
+
+#template biom code from instruction
+#kraken-biom stool_sample_bracken_species.report
+
+kraken-biom SRR8146935_bracken_species.report -o SRR8146935_biom_table.biom
+kraken-biom SRR8146936_bracken_species.report -o SRR8146936_biom_table.biom
+kraken-biom SRR8146938_bracken_species.report -o SRR8146938_biom_table.biom
+
+kraken-biom SRR8146937_bracken_species.report -o SRR8146937_biom_table.biom
+kraken-biom SRR8146939_bracken_species.report -o SRR8146939_biom_table.biom
+kraken-biom SRR8146940_bracken_species.report -o SRR8146940_biom_table.biom
