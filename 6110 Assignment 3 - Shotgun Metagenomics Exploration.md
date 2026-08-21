@@ -33,38 +33,50 @@ Finally, a network analysis using NetCoMi is plotted to visually represent taxon
 
 ## Results:
 Rarefaction Curves:
-![[Pasted image 20260821060434.png]]**Figure 1:** Rarefaction curve for omnivore samples.
-![[Pasted image 20260821060534.png]]
+<img width="1728" height="855" alt="Pasted image 20260821060434" src="https://github.com/user-attachments/assets/5eb5201a-a8bd-41d3-9803-8aaee7d26a49" />**Figure 1:** Rarefaction curve for omnivore samples.
+<img width="1555" height="731" alt="Pasted image 20260821060534" src="https://github.com/user-attachments/assets/df4a4c75-1b77-40f6-b6fc-86600a78e594" />
+
 **Figure 2:** Rarefaction curve for vegetarian samples.
 
-![[Pasted image 20260821060740.png]]
+<img width="1397" height="618" alt="Pasted image 20260821060740" src="https://github.com/user-attachments/assets/19a95c64-a765-420d-ad32-e6c89e636cc0" />
+
 **Figure 3:** Relative phylum abundance comparing samples based on dietary groups.
 
-![[Pasted image 20260821061001.png]]
+<img width="1252" height="517" alt="Pasted image 20260821061001" src="https://github.com/user-attachments/assets/90302626-a2ba-495b-97b8-a859f6d09f5e" />
+
 **Figure 4:** Relative phylum abundance comparing samples based on city of origin. Note that elevated presence of Pseudomonadota and the absence of Verrucomicrobiota distinguishedBari groups, while the inverse distinguished the Turin group.
 
-![[Pasted image 20260821062320.png]]
+<img width="1122" height="423" alt="Pasted image 20260821062320" src="https://github.com/user-attachments/assets/4d8969ad-5fcc-4747-af90-aa03890f97ab" />
+
 **Figure 5:** Alpha diversity metrics, grouping by diet. Note that Shannon diversity was the only marker to cleanly distinguish the two groups, with vegetarians displaying a slightly, but clearly, elevated diversity metric omnivores.
 
 
-![[Pasted image 20260821062407.png]]
+<img width="675" height="424" alt="Pasted image 20260821063515" src="https://github.com/user-attachments/assets/e9152277-4ef7-4a96-a3d2-89a39fa4d572" />
+
 **Figure 6:** Alpha diversity metrics, grouping by city.
 
-![[Pasted image 20260821063335.png]]
+<img width="675" height="424" alt="Pasted image 20260821063517" src="https://github.com/user-attachments/assets/3e4862e2-b570-454e-a955-95beb32e4ea0" />
+
 **Figure 7:** Beta diversity metric: Bray distance using PCOA, comparing diet groups.
-![[Pasted image 20260821063517.png]]
+<img width="675" height="424" alt="Pasted image 20260821065509" src="https://github.com/user-attachments/assets/25a0cc25-dd71-4d79-8f66-ca19932b2e46" />
+
 **Figure 8:** Beta diversity metric. Jaccard distance using PCOA, comparing cities.
 
-![[Pasted image 20260821065509.png]]
-![[Pasted image 20260821065525.png]]
+<img width="675" height="424" alt="Pasted image 20260821065525" src="https://github.com/user-attachments/assets/dd7bd685-199b-42de-8a37-a5026940773a" />
+
+<img width="1728" height="855" alt="Pasted image 20260821073556" src="https://github.com/user-attachments/assets/27666252-fcc3-465e-80bf-3ea208717519" />
+
 **Figures 9 and 10:** ANCOMBC-2 analysis characterrizing significance (or lack thereof) of taxa associations. Note that a q chance exceeding 0.5 indicates false discovery is very likely. Also note that PERMANOVA is a conservative estimator.
 
-![[Pasted image 20260821073612.png]]
-![[Pasted image 20260821073626.png]]
+<img width="675" height="427" alt="Pasted image 20260821073612" src="https://github.com/user-attachments/assets/a3582334-0bec-413c-a598-23c89a62cbd9" />
+
+<img width="675" height="427" alt="Pasted image 20260821073626" src="https://github.com/user-attachments/assets/7bc25899-0e4d-4cbf-91ad-640a676aabc9" />
+
 **Figures 11 and 12:** ANCOMBC-2 analysis characterizing significance of taxa association with ciy. Note that the Pseudomonadota phylum possesses a near-significant negative correlation with Turin, though the small sample size does not allow it to cross the traditional threshold of significance of q<0.05.
 
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/bdb8ec20-933b-4284-9159-7658c582e5dc" />
 
-![[Pasted image 20260821074555.png]]
+
 **Figure 13:** NetCoMi association network analysis of the top 50 co-occurring genus. For illustrative purposes, as small sample size relative to genus count cautions against drawing confident correlations.
 
 
